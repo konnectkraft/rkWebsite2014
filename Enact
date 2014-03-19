@@ -1,0 +1,79 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Control &amp; Scheduling</title>
+  <meta name="description" content="">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+ 
+  	<link rel="stylesheet" href="styleRK.css">
+  
+  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+  <!-- All JavaScript at the bottom, except this Modernizr build.
+       Modernizr enables HTML5 elements & feature detects for optimal performance.
+       Create your own custom Modernizr build: www.modernizr.com/download/ -->
+  <script src="js/libs/modernizr-2.5.0.min.js"></script>
+  <script type="text/javascript" src="//use.typekit.net/rfs8nqt.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  
+</head>
+<body>
+ 
+<div class="wrapper_12"> 
+	<img src="Images/rkLogo.png" class="logo" width="89" height="34">
+
+	<div class="clear"></div>
+
+	<div class="grid_8 left">
+		<img src="Images/enactLogo.png" id ="enLogo" width="244" height="89" alt="Enact">
+  		<h5 id = "multi">Multi-site central</h5><h4 id="control">CONTROL & SCHEDULING</h4>
+	</div>
+ 
+	<div class="grid_8 left" style="background:#F90; max-height:233px;">
+		<h4 id ="heading">LIGHTING & HVAC</h4>         
+    	<h6 id ="heading">Remote control multi-site organisations cost effectievely and at the touch of a button</h6>
+ 	</div>  
+ 
+	<div class="clear"></div>	
+</div><!-- /wrapper_12 -->
+ 
+<div class="full_12">        
+	<div class="clear"></div>
+	<div class="grid_6 left push_2" style="background:#F90">
+    	<h5 id ="content">Direct Control:</h5>
+    	<p id ="ad9">Resourcekraft Advisor9 is not just about monitoring your energy usage- it is also about diect control. The optional Resourcekraft EnAct system allows operators of multi- site organisations to centrally control lighting HVAC and other loads.</p><br>
+        
+  		<p id="ad9">ResourrceKraft EnAct allows schedules and rules to be easily developed for different kinds of loads and for different parts of the year. These schedules and rules can then be "pushed" out to hundreds of locations at the press of a button. ResourceKraft EnAct is designed to be cost effective easy to deploy and require minimal long term maintenance. EnAct is not complex like the typical Building Management Systems.</p>
+  		<br>
+    </div>
+    <div class="clear"></div>
+</div>    
+<div class="full_12" style="background-image:url(Images/bg.png)">
+        <div class="clear"></div>	
+    	<img src="Images/computer.png" style="width:34%; height:34%; padding-left: 13%;">
+    	
+        <p id ="ad9b"><br>ResourceKraft Advisor9 is not just about your energy usage - it is also about direct control. The optional ResourceKraft EnAct system allows operators of multi-site organisations to centrally control lighting, HVAC and other loads. ResourceKraft EnAct allows schedules and rules to be easily developed for different kinds of loads and for different parts of the year. These schedules and rules can then be "pushed" out to hundreds of locations at the press of a button</p>
+		<div class="clear"></div>
+</div>    	
+
+<div class="grid_8 left" style="background:#F90; max-height:233px;">			
+<h4>Multi-site control & scheduling</h4>
+</div>	
+
+</body>
+</html>
