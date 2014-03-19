@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: -webkit-linear-gradient(#03F, #F6C 80%); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#03F, #F6C 80%); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#03F, #F6C 80%); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#03F, #F6C 80%); /* Standard syntax */
+	background-repeat:no-repeat;
+
+	min-height: 244px;
+	max-height: 277px;
+} 
+
+
+
+#nav {
+	margin-left:377px;
+	margin-right:377px;	
+}
+
+#nav, li{
+	width:144px;
+	float:right;	
+	font:Arial, Helvetica, sans-serif;
+	font-weight:800;
+	color:#FFF;
+	margin:4%;
+	margin: 2%, 5% 2%, 5%;
+}	
+
+h3{
+	font:Arial, Helvetica, sans-serif;
+	font-weight:800;
+	color:#006;	
+	
+}
+h4{
+	font:"Times New Roman", Times, serif;
+	font-weight:800;
+	color:#FFF;	
+}
+
+.colL{
+	margin-top:2%;
+	max-width: 377px;
+	height: 610px;
+	background-color:#F90;	
+}
+#bg{
+	margin-top:25%;
+	margin-bottom:5%;	
+}
+			
+p {
+	color:#FFF;	
+}
+			
